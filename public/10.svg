@@ -1,0 +1,5 @@
+<svg width="65" height="80" xmlns="http://www.w3.org/2000/svg">
+  <!-- Node 1 -->
+  <circle cx="30" cy="40" r="20" fill="none" stroke="black" stroke-width="2.5"/>
+  <text x="30" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="16">10</text>
+</svg>

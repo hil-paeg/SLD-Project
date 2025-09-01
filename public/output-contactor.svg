@@ -1,0 +1,13 @@
+<svg width="150" height="350" viewBox="0 0 150 350" xmlns="http://www.w3.org/2000/svg">
+  <!-- First vertical line -->
+  <line x1="95" y1="30" x2="95" y2="130" stroke="black" stroke-width="4"/>
+  
+  <!-- Vertical semicircle on the left side of the line -->
+  <path d="M 95 118 A 6 6 0 0 0 95 130 Z" fill="black"/>
+  
+  <!-- Second diagonal line -->
+  <line x1="45" y1="150" x2="95" y2="232" stroke="black" stroke-width="4"/>
+  
+  <!-- Third vertical line continuing from the diagonal -->
+  <line x1="95" y1="230" x2="95" y2="320" stroke="black" stroke-width="4"/>
+</svg>

@@ -1,0 +1,16 @@
+<svg width="100" height="350" viewBox="0 0 100 350" xmlns="http://www.w3.org/2000/svg">
+  <!-- First vertical line -->
+  <line x1="75" y1="20" x2="75" y2="140" stroke="black" stroke-width="2"/>
+  
+  <!-- Cross at the very end of the upper line -->
+  <line x1="60" y1="125" x2="90" y2="155" stroke="black" stroke-width="2"/>
+  <line x1="90" y1="125" x2="60" y2="155" stroke="black" stroke-width="2"/>
+  
+  <!-- Second diagonal line -->
+  <line x1="25" y1="155" x2="75" y2="205" stroke="black" stroke-width="2"/>
+  
+  <!-- Third vertical line continuing from the diagonal -->
+  <line x1="75" y1="205" x2="75" y2="330" stroke="black" stroke-width="2"/>
+  
+
+</svg>

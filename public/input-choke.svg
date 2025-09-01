@@ -1,0 +1,39 @@
+<svg width="220" height="80" viewBox="0 0 220 80" xmlns="http://www.w3.org/2000/svg">
+  <!-- Rectangular box containing both diagrams -->
+  <rect x="15" y="15" width="190" height="55" fill="none" stroke="black" stroke-width="2" stroke-dasharray="5,3"/>
+  
+  <!-- Series of connected semicircular arches -->
+  
+  <!-- Left vertical line -->
+  <line x1="30" y1="30" x2="30" y2="150" stroke="black" stroke-width="2" fill="none"/>
+  
+  <!-- First arch -->
+  <path d="M 30 30 A 10 10 0 0 1 50 30" stroke="black" stroke-width="2" fill="none"/>
+  
+  <!-- Second arch -->
+  <path d="M 50 30 A 10 10 0 0 1 70 30" stroke="black" stroke-width="2" fill="none"/>
+  
+  <!-- Third arch -->
+  <path d="M 70 30 A 10 10 0 0 1 90 30" stroke="black" stroke-width="2" fill="none"/>
+  
+  <!-- Connecting horizontal line between the two diagrams -->
+  <line x1="90" y1="30" x2="130" y2="30" stroke="black" stroke-width="2" fill="none"/>
+  
+  <!-- Upward facing vertical line in the middle of the connection -->
+  <line x1="110" y1="30" x2="110" y2="5" stroke="black" stroke-width="2" fill="none"/>
+  
+  <!-- Dot in the center of the vertical line -->
+  <circle cx="110" cy="22" r="4" fill="black"/>
+  
+  <!-- First arch (second diagram) -->
+  <path d="M 130 30 A 10 10 0 0 1 150 30" stroke="black" stroke-width="2" fill="none"/>
+  
+  <!-- Second arch (second diagram) -->
+  <path d="M 150 30 A 10 10 0 0 1 170 30" stroke="black" stroke-width="2" fill="none"/>
+  
+  <!-- Third arch (second diagram) -->
+  <path d="M 170 30 A 10 10 0 0 1 190 30" stroke="black" stroke-width="2" fill="none"/>
+  
+  <!-- Right vertical line (second diagram) -->
+  <line x1="190" y1="30" x2="190" y2="150" stroke="black" stroke-width="2" fill="none"/>
+</svg>

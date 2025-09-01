@@ -1,0 +1,24 @@
+<svg width="375" height="80" xmlns="http://www.w3.org/2000/svg">
+  
+  <!-- Rectangle (amplifier body) -->
+  <rect x="110" y="30" width="80" height="40" fill="none" stroke="black" stroke-width="1.5"/>
+  
+  <!-- Left circle -->
+  <circle cx="110" cy="50" r="4" fill="none" stroke="black" stroke-width="1"/>
+  
+  <!-- Right circle -->
+  <circle cx="190" cy="50" r="4" fill="none" stroke="black" stroke-width="1"/>
+  
+  <!-- L.A text inside rectangle -->
+  <text x="150" y="55" text-anchor="middle" font-family="Arial, sans-serif" font-size="25" fill="black">L.A</text>
+  
+  <!-- Left circle -->
+  <circle cx="110" cy="50" r="4" fill="none" stroke="black" stroke-width="1.5"/>
+  
+  <!-- Right circle -->
+  <circle cx="190" cy="50" r="4" fill="none" stroke="black" stroke-width="1.5"/>
+  
+  <!-- L.A text inside rectangle -->
+  <text x="150" y="55" text-anchor="middle" font-family="Arial, sans-serif" font-size="25" fill="black">L.A</text>
+  
+</svg>

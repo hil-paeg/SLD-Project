@@ -1,0 +1,17 @@
+<svg width="100" height="350" viewBox="0 0 100 350" xmlns="http://www.w3.org/2000/svg">
+  <!-- First vertical line -->
+  <line x1="75" y1="20" x2="75" y2="140" stroke="black" stroke-width="3"/>
+  
+  <!-- Cross at the very end of the upper line -->
+  <line x1="60" y1="125" x2="90" y2="155" stroke="black" stroke-width="3"/>
+  <line x1="90" y1="125" x2="60" y2="155" stroke="black" stroke-width="3"/>
+  
+  <!-- Closed switch symbol (vertical line instead of diagonal) -->
+  <line x1="75" y1="141" x2="75" y2="205" stroke="black" stroke-width="3"/>
+  
+  <!-- Third vertical line continuing from the diagonal -->
+  <line x1="75" y1="205" x2="75" y2="330" stroke="black" stroke-width="3"/>
+  
+  <!-- Add a circle to make the closed switch more visually distinct -->
+  <circle cx="75" cy="170" r="10" fill="none" stroke="black" stroke-width="2"/>
+</svg>

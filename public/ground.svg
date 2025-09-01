@@ -1,0 +1,13 @@
+<svg width="80" height="120" viewBox="0 0 80 120" xmlns="http://www.w3.org/2000/svg">
+  <!-- Vertical line -->
+  <line x1="40" y1="10" x2="40" y2="70" stroke="black" stroke-width="2"/>
+  
+  <!-- First horizontal line (longest) -->
+  <line x1="20" y1="70" x2="60" y2="70" stroke="black" stroke-width="2"/>
+  
+  <!-- Second horizontal line (medium) -->
+  <line x1="25" y1="80" x2="55" y2="80" stroke="black" stroke-width="2"/>
+  
+  <!-- Third horizontal line (shortest) -->
+  <line x1="30" y1="90" x2="50" y2="90" stroke="black" stroke-width="2"/>
+</svg>

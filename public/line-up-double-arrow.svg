@@ -1,0 +1,22 @@
+<svg width="100" height="200" viewBox="0 0 100 200" xmlns="http://www.w3.org/2000/svg">
+  
+  <!-- Black arrow -->
+  <!-- Vertical line (shaft of arrow) - from bottom arrowhead down -->
+  <line x1="50" y1="50" x2="50" y2="180" stroke="black" stroke-width="2.5"/>
+  
+  <!-- Vetical line above the arrow shaft -->
+  <line x1="50" y1="30" x2="50" y2="10" stroke="black" stroke-width="2.5"/>
+  <!-- Upper arrowhead -->
+  <!-- Left diagonal line -->
+  <line x1="50" y1="30" x2="35" y2="45" stroke="black" stroke-width="2.5"/>
+  
+  <!-- Right diagonal line -->
+  <line x1="50" y1="30" x2="65" y2="45" stroke="black" stroke-width="2.5"/>
+  
+  <!-- Middle arrowhead -->
+  <!-- Left diagonal line -->
+  <line x1="50" y1="50" x2="35" y2="65" stroke="black" stroke-width="2.5"/>
+  
+  <!-- Right diagonal line -->
+  <line x1="50" y1="50" x2="65" y2="65" stroke="black" stroke-width="2.5"/>
+</svg>

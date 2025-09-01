@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="200">   
+  <!-- Outer black rectangle border -->   
+  <rect x="10" y="10" width="260" height="160" fill="none" stroke="black" stroke-width="2"/>   
+  <!-- Left vertical lines -->   
+  <line x1="110" y1="60" x2="110" y2="140" stroke="black" stroke-width="3"/>   
+  <line x1="135" y1="60" x2="135" y2="140" stroke="black" stroke-width="3"/>   
+  <!-- K shape -->   
+  <line x1="135" y1="100" x2="190" y2="60" stroke="black" stroke-width="3"/>   
+  <line x1="135" y1="100" x2="190" y2="140" stroke="black" stroke-width="3"/>   
+  <!-- K top arm extension -->   
+  <line x1="190" y1="60" x2="190" y2="40" stroke="black" stroke-width="3"/>   
+  <!-- K lower leg -->   
+  <line x1="190" y1="140" x2="190" y2="160" stroke="black" stroke-width="3"/>
+  <!-- Arrow head for the lower slanting line -->
+  <polygon points="190,140 165,127 177,112" fill="black"/>
+</svg>

@@ -1,0 +1,17 @@
+<svg width="150" height="350" viewBox="0 0 150 350" xmlns="http://www.w3.org/2000/svg">
+  <!-- Rectangular box with dotted lines cutting through the circuit -->
+  <rect x="25" y="80" width="100" height="160" fill="none" stroke="black" stroke-width="4" stroke-dasharray="5,3"/>
+  
+  <!-- First vertical line -->
+  <line x1="95" y1="30" x2="95" y2="135" stroke="black" stroke-width="4"/>
+  
+  <!-- Vertical semicircle on the left side of the line -->
+  <path d="M 95 120 A 6 6 0 0 0 95 135 Z" fill="black"/>
+  
+  <!-- Second diagonal line -->
+  <line x1="45" y1="140" x2="95" y2="230" stroke="black" stroke-width="4"/>
+  
+  <!-- Third vertical line continuing from the diagonal -->
+  <line x1="95" y1="230" x2="95" y2="320" stroke="black" stroke-width="4"/>
+
+</svg>
