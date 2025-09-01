@@ -47,17 +47,13 @@ A comprehensive web application for visualizing and interacting with SLD (Single
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/igbt-circuit-visualizer.git
-   cd igbt-circuit-visualizer
+   git clone https://github.com/hil-paeg/SLD-Project.git
+   cd SLD-Project
    ```
 
 2. **Install dependencies**
    ```bash
-   npm install
-   # or
-   yarn
-   # or
-   pnpm install
+   npm install --legacy-peer-deps
    ```
 
 ### Running the Application
@@ -65,10 +61,6 @@ A comprehensive web application for visualizing and interacting with SLD (Single
 1. **Development Mode**
    ```bash
    npm run dev
-   # or
-   yarn dev
-   # or
-   pnpm dev
    ```
    Open [http://localhost:3000](http://localhost:3000) in your browser.`
 
